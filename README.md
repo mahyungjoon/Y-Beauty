@@ -4,26 +4,13 @@
 ![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
 
 ### 사용 기술 : 
-*  인공지능(AI)
-* 기계학습(Machine Learning)
-* 파이썬(Python)
-* 자바 스크립트(Node Js)
-* 시퀀스 투 시퀀스(Seq2Seq)
-* 트랜스포머(Transformer)
-* 자연언어 처리(NLP)
-* 챗봇(Chatbot)
-* Web Socket
+![image](https://user-images.githubusercontent.com/78770128/108956576-47c13500-76b3-11eb-8ade-3f6262464688.png)
 
-<img src="./images/prgstruct.png">
+### 실행 방법
+   1. style button으로 자신이 원하는 모델 스타일을 선택한다.
+   2. 자신의 이름을 입력한다.
+   3. click-photo button으로 사진을 찍는다.
+   4. 총 3개의 사진을 찍는다. 
+   5. Result image button을 눌러 찍은 3개의 이미지를 확인한다.
+   6. 3개의 이미지중 제일 마음에 드는 사진을 선택한다.
 
-### 프로그램의 흐름
-   1. Web Client 에서 질문을 입력한다.
-   2. 입력된 질문은 Web Socket 을 통해 Node JS 서버로 전달된다.
-   3. JS 서버에서 먼저 정형화된 질문에 대해서는 Web Client로 응답하고 응답 과정을 종료한다.
-   4. 예상하지 못한 질문에 대해서는 질문 내용을 텍스트 화일을 기록한다. 
-   5. 파이썬 챗봇 서버에서 질문 내용을 읽어 응답을 만들어 기록한다.
-   6. JS 서버에서 파이썬 챗봇이 응답한 내용을 파일에서 읽어 Web Client로 응답한다.
-
-### 참고 Site
-- Transformer Source Code  https://wikidocs.net/89786
-- ChatBot 기초 학습 자료	https://github.com/songys/Chatbot_data (송영숙님)
