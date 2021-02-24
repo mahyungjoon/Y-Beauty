@@ -1,4 +1,4 @@
-## How Greeting everyone! eheheheheh 😁 
+## Hi everyone! eheheheheh 😁 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ian0720)](https://github.com/anuraghazra/github-readme-stats)
 
