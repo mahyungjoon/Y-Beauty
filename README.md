@@ -16,7 +16,7 @@
 
 ## Hi everyone! LOLOLOLOLOLOL 😁 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahyungjoob)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahyungjoon)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
@@ -31,7 +31,7 @@
 
 <div align=center>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ma_h_j0824/)](https://www.instagram.com/t3d._.x.x/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ma_h_j0824/)](https://www.instagram.com/ma_h_j0824/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gudwns4328@gmail.com)](mailto:gudwns4328@gmail.com)
 </div>
 
