@@ -1,10 +1,13 @@
 ## Hi everyone! eheheheheh 😁 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ian0720)](https://github.com/anuraghazra/github-readme-stats)
+## Y-Beauty program
+![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahyungjoon)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIan0720)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahyungjoon)]
 
 </div>
 
