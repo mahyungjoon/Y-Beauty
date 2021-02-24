@@ -2,9 +2,11 @@
 
 ### 얼굴인식
 
-<img src = "C:/korAI/beautyGAN/cap1.PNG" width = "450px" height = "300px" title = 'px(픽셀 크기설정)" alt = "MarkDown"></img><br/>
-
+<img src = "https://user-images.githubusercontent.com/78770128/108954457-2f9be680-76b0-11eb-81c2-fd198063bb1b.PNG" width = "70%" height = "70%" alt = "MarkDown"></img><br/>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 사용 기술
+
+
 
 ### 프로그램의 흐름
 
