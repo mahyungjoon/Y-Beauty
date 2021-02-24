@@ -1,41 +1,29 @@
-## Hi everyone! eheheheheh 😁 
+# Y-Beauty
 
-## Y-Beauty program
+## 얼굴인식 화장 프로그램
 ![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahyungjoon)](https://github.com/anuraghazra/github-readme-stats)
+### 사용 기술 : 
+*  인공지능(AI)
+* 기계학습(Machine Learning)
+* 파이썬(Python)
+* 자바 스크립트(Node Js)
+* 시퀀스 투 시퀀스(Seq2Seq)
+* 트랜스포머(Transformer)
+* 자연언어 처리(NLP)
+* 챗봇(Chatbot)
+* Web Socket
 
-<div align=center>
+<img src="./images/prgstruct.png">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahyungjoon)]
+### 프로그램의 흐름
+   1. Web Client 에서 질문을 입력한다.
+   2. 입력된 질문은 Web Socket 을 통해 Node JS 서버로 전달된다.
+   3. JS 서버에서 먼저 정형화된 질문에 대해서는 Web Client로 응답하고 응답 과정을 종료한다.
+   4. 예상하지 못한 질문에 대해서는 질문 내용을 텍스트 화일을 기록한다. 
+   5. 파이썬 챗봇 서버에서 질문 내용을 읽어 응답을 만들어 기록한다.
+   6. JS 서버에서 파이썬 챗봇이 응답한 내용을 파일에서 읽어 Web Client로 응답한다.
 
-</div>
-
-### Machine Learning Engineer 
-- I'm currently learning about A.I(Deep-Learning)
-- also keep try to make my own  
-
-### Interest
-- Javascript, Python, CSS, Node.js (4 languages)
-- workouts & look for Famous Restaurant & Play Mobile Games & Martial Arts
-
-<div align=center>
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/t3d._.x.x/)](https://www.instagram.com/t3d._.x.x/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aoa8538@gmail.com)](mailto:aoa8538@gmail.com)
-</div>
-
-<!--
-**Ian0720/Ian0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 참고 Site
+- Transformer Source Code  https://wikidocs.net/89786
+- ChatBot 기초 학습 자료	https://github.com/songys/Chatbot_data (송영숙님)
