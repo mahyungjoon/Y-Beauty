@@ -1,5 +1,7 @@
-# Y-Beauty
 
+
+# Y-Beauty
+- 자신의 얼굴에 화장을 입혀주는 프로그램입니다.
 ## 얼굴인식 화장 프로그램
 ![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
 
