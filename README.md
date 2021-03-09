@@ -2,7 +2,7 @@
 
 # Y-Beauty
 - 자신의 얼굴에 화장을 입혀주는 프로그램입니다.
-## 얼굴인식 화장 프로그램
+## Program-Design
 ![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
 
 # Learning Data
@@ -14,8 +14,9 @@
 # Author
 (gudwns4328@gmail.com)
 
-### 사용 기술
+### 사용 기술(Requirement)
 ![image](https://user-images.githubusercontent.com/78770128/108956576-47c13500-76b3-11eb-8ade-3f6262464688.png)
+
 
 ### 실행 방법
    1. style button으로 자신이 원하는 모델 스타일을 선택한다.
