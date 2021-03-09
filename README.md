@@ -5,6 +5,15 @@
 ## 얼굴인식 화장 프로그램
 ![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
 
+# Learning Data
+|Title|Contents|From|
+|:------:|:---:|:------:|
+|Data Name|ChatBot 'Bell'|My Brain (나의 머리)|
+|Basic Sources From|DeFault BeautyGan Data Source|https://github.com/Honlan/BeautyGAN (Honlan)|
+
+# Author
+(gudwns4328@gmail.com)
+
 ### 사용 기술
 ![image](https://user-images.githubusercontent.com/78770128/108956576-47c13500-76b3-11eb-8ade-3f6262464688.png)
 
